@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *this  iis shit 
+ *this is shit 
  *
- * return 0 
+ *return 0 
  */
 int main(void)
 {
