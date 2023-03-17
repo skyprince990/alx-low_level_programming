@@ -9,11 +9,11 @@ int main(void)
 	int j;
 	char lower[26] = "abcdefghijklmnopqrstuvwxyz";
 	char upper[26] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-	for (i = 0;i < 26;i++)
+	for (i = 0; i < 26; i++)
 	{
 		putchar(lower[i]);
 	}
-	for (j = 0; j < 26;j++)
+	for (j = 0; j < 26; j++)
 	{
 		putchar(upper[j]);
 	}
